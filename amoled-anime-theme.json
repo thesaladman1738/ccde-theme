@@ -238,7 +238,7 @@
     "url": "https://i.imgur.com/1vq6WyV.jpeg",
     "blur": 0.5,
     "alpha": 0.25,
-    "size": "cover",
+    "size": "fill",
     "position": "center"
   },
   "plus": {
